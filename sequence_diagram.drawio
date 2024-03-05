@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T06:59:33.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="rVhh3rqs8zd7GM3yhh8B" version="24.0.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-05T07:06:55.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="Acksr42LjL05d2eD52ym" version="24.0.1" type="github" pages="5">
   <diagram name="Page-1" id="cwaftNqGGhww4dRxVNXx">
     <mxGraphModel dx="1008" dy="621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -354,84 +354,87 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NtkK0kqPwXHkxU3P69zy" name="Page-5">
-    <mxGraphModel dx="840" dy="518" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QWxy1KFmaCDsapZR-MUG-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="68" y="246" width="30" height="60" as="geometry" />
+          <mxGeometry x="90" y="327" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QWxy1KFmaCDsapZR-MUG-2" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="171" y="246" width="140" height="70" as="geometry" />
+          <mxGeometry x="249" y="327" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QWxy1KFmaCDsapZR-MUG-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.52;exitY=0.596;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QWxy1KFmaCDsapZR-MUG-1" target="QWxy1KFmaCDsapZR-MUG-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="87" y="282" as="sourcePoint" />
-            <mxPoint x="383" y="235" as="targetPoint" />
+            <mxPoint x="165" y="363" as="sourcePoint" />
+            <mxPoint x="461" y="316" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QWxy1KFmaCDsapZR-MUG-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.517;exitY=0.603;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QWxy1KFmaCDsapZR-MUG-1" target="QWxy1KFmaCDsapZR-MUG-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="94" y="292" as="sourcePoint" />
-            <mxPoint x="192" y="193" as="targetPoint" />
+            <mxPoint x="172" y="373" as="sourcePoint" />
+            <mxPoint x="270" y="274" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QWxy1KFmaCDsapZR-MUG-11" value="Đăng ký" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="171" y="134" width="140" height="70" as="geometry" />
+          <mxGeometry x="249" y="215" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QWxy1KFmaCDsapZR-MUG-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.506;exitY=0.606;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QWxy1KFmaCDsapZR-MUG-1" target="QWxy1KFmaCDsapZR-MUG-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="85" y="281" as="sourcePoint" />
-            <mxPoint x="192" y="429" as="targetPoint" />
+            <mxPoint x="163" y="362" as="sourcePoint" />
+            <mxPoint x="270" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QWxy1KFmaCDsapZR-MUG-13" value="Quên mật khẩu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="171" y="358" width="140" height="70" as="geometry" />
+          <mxGeometry x="249" y="439" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QWxy1KFmaCDsapZR-MUG-14" value="Thêm tài khoản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="407" y="43" width="140" height="70" as="geometry" />
+          <mxGeometry x="485" y="124" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QWxy1KFmaCDsapZR-MUG-16" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QWxy1KFmaCDsapZR-MUG-11" target="QWxy1KFmaCDsapZR-MUG-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="283" y="244" as="sourcePoint" />
-            <mxPoint x="203" y="244" as="targetPoint" />
+            <mxPoint x="361" y="325" as="sourcePoint" />
+            <mxPoint x="281" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QWxy1KFmaCDsapZR-MUG-19" value="Điểm danh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="407" y="246" width="140" height="70" as="geometry" />
+          <mxGeometry x="485" y="327" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QWxy1KFmaCDsapZR-MUG-20" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QWxy1KFmaCDsapZR-MUG-2" target="QWxy1KFmaCDsapZR-MUG-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="218" y="269" as="sourcePoint" />
-            <mxPoint x="268" y="219" as="targetPoint" />
+            <mxPoint x="296" y="350" as="sourcePoint" />
+            <mxPoint x="346" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QWxy1KFmaCDsapZR-MUG-21" value="Xem tài liệu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="407" y="145" width="140" height="70" as="geometry" />
+          <mxGeometry x="485" y="226" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QWxy1KFmaCDsapZR-MUG-22" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QWxy1KFmaCDsapZR-MUG-2" target="QWxy1KFmaCDsapZR-MUG-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="218" y="269" as="sourcePoint" />
-            <mxPoint x="268" y="219" as="targetPoint" />
+            <mxPoint x="296" y="350" as="sourcePoint" />
+            <mxPoint x="346" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QWxy1KFmaCDsapZR-MUG-23" value="Quên mật khẩu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="407" y="347" width="140" height="70" as="geometry" />
+        <mxCell id="QWxy1KFmaCDsapZR-MUG-23" value="Xem thông tin lớp" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="428" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QWxy1KFmaCDsapZR-MUG-24" value="Cập nhật mật khẩu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="448" width="140" height="70" as="geometry" />
+          <mxGeometry x="492" y="529" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QWxy1KFmaCDsapZR-MUG-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QWxy1KFmaCDsapZR-MUG-2" target="QWxy1KFmaCDsapZR-MUG-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="313" y="283" as="sourcePoint" />
-            <mxPoint x="417" y="291" as="targetPoint" />
+            <mxPoint x="391" y="364" as="sourcePoint" />
+            <mxPoint x="495" y="372" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QWxy1KFmaCDsapZR-MUG-26" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QWxy1KFmaCDsapZR-MUG-13" target="QWxy1KFmaCDsapZR-MUG-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="321" y="179" as="sourcePoint" />
-            <mxPoint x="417" y="88" as="targetPoint" />
+            <mxPoint x="399" y="260" as="sourcePoint" />
+            <mxPoint x="495" y="169" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QWxy1KFmaCDsapZR-MUG-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Quản lý lớp học&lt;/font&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="77" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
